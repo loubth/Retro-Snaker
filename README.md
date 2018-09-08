@@ -6,5 +6,4 @@
 
 &emsp;&emsp;由于背景音乐文件太大上传不上来，所以要想程序正确运行需要你手动在程序所在文件夹下添加一个wav格式的命名为000.wav的音频文件作为背景音乐，游戏密码是6138
 
-背景音乐如果找不到的话可以试试这个，记得名字改为000.wav（如果这个链接没有失效的话）&emsp;&emsp; [点击下载](http://file3.data.weipan.cn/97439332/c8fc47af1a794ddf4bf6f834d09cc61c1213b3ec?ip=1536406414,175.16.216.197&ssig=Z6nvFYP%2FO7&Expires=1536407014&KID=sae,l30zoo1wmz&fn=%E5%90%8E%E6%9D%A5.wav&se_ip_debug=175.16.216.197&from=1221134)
 
